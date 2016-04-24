@@ -1,1 +1,1 @@
-# chatbotdesk.github.io
+# chatbotiq.github.io
